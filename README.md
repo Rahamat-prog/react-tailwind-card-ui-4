@@ -9,5 +9,5 @@ This is a modern card UI built using **React**, **Vite**, and **Tailwind CSS**. 
 - Responsive Tailwind utility classes
 - Customizable `username` and `button` text
 
-## 📂 Folder Structure
+
 
